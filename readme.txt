@@ -2,7 +2,7 @@
 Contributors: michaelryanmcneill, earnjam, WebDotUNC
 Tags: qualtrics, oembed, embed, surveys
 Requires at least: 2.9.0
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
